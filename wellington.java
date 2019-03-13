@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class wellington here.
+ * WWEEEEEEEEEEEEEEEEELLLLLLLLLLLLLLIIIIIINNNNNNNGGGGGGTOOOOONNNNN!!!!
  *
  * @author (your name)
  * @version (a version number or a date)
